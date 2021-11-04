@@ -8,6 +8,8 @@ keytool -genkey -v -keystore /Applications/Android\ Studio.app/Contents/jre/jdk/
 
 
 ###Resources 
+
 Code Example  -- https://flutterawesome.com/
+
 Library -- https://fluttergems.dev/
 
